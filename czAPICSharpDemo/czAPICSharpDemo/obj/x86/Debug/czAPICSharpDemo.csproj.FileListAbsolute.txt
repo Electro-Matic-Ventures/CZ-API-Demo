@@ -1,0 +1,87 @@
+C:\Users\Administrator\Desktop\czAPIDemo\czAPICSharpDemo\bin\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPIDemo\czAPICSharpDemo\bin\Debug\czAPICSharpDemo.pdb
+C:\Users\Administrator\Desktop\czAPIDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPIDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+C:\Users\Administrator\Desktop\czAPIDemo\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPIDemo\Debug\czAPICSharpDemo.pdb
+C:\Users\Administrator\Desktop\czAPIDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+C:\Users\Administrator\Desktop\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+C:\Users\Administrator\Desktop\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.73\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.73\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.73\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.73\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.73\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czAPI\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czAPI\czAPIDemo1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czAPI\czAPIDemo1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czAPI\czAPIDemo1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czAPI\czAPIDemo1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74 new\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74 new\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74 new\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74 new\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo\czAPIDemo Ver1.74 new\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+C:\Users\Administrator\Desktop\czAPIDemo Ver1.74\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+L:\积累\工作\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+L:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csproj.CoreCompileInputs.cache
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+I:\积累\工作\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojAssemblyReference.cache
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csproj.CoreCompileInputs.cache
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\Debug\PXL.csv
+I:\积累\工作\czAPIDemo Source\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojAssemblyReference.cache
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Debug\PXL.csv
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\Debug\PXL.csv
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojAssemblyReference.cache
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csproj.CoreCompileInputs.cache
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+F:\2020工程项目\czBaseLib\czAPIDemo\czAPIDemo Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\PXL.csv
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\Debug\PXL.csv
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo Ver1.77.11_win\czAPICSharpDemo\czAPICSharpDemo\obj\x86\Debug\czAPICSharpDemo.csprojResolveAssemblyReference.cache

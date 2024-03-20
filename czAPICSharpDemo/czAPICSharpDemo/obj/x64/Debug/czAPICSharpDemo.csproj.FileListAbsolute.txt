@@ -1,0 +1,5 @@
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\PXL.csv
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\Debug\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x64\Debug\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\publish\czAPIDemo\czAPICSharpDemo\czAPICSharpDemo\obj\x64\Debug\czAPICSharpDemo.pdb

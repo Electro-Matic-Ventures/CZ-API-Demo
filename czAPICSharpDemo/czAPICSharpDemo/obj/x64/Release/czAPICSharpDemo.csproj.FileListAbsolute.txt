@@ -1,0 +1,6 @@
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Release\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Release\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x64\Release\czAPICSharpDemo.exe
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x64\Release\czAPICSharpDemo.pdb
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\Release\PXL.csv
+E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICSharpDemo\czAPICSharpDemo\obj\x64\Release\czAPICSharpDemo.csprojResolveAssemblyReference.cache

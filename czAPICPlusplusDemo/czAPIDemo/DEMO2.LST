@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<czPlayList>
+    <Version>1</Version>
+    <Count>3</Count>
+    <Item>        <groupName></groupName>
+        <playType>0</playType>
+        <itemType>0</itemType>
+        <parentIndex>1</parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>demo.qst</fileName>
+            <schCount>0</schCount>
+            <playTimes>1</playTimes>
+            <Drive>68</Drive>
+            <Type>81</Type>
+        </File>
+    </Item>
+    <Item>        <groupName></groupName>
+        <playType>0</playType>
+        <itemType>0</itemType>
+        <parentIndex>2</parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>2.bmp</fileName>
+            <schCount>0</schCount>
+            <playTimes>1</playTimes>
+            <Drive>68</Drive>
+            <Type>80</Type>
+            <PicStaySec>65535</PicStaySec>
+            <PicInMode>255</PicInMode>
+            <PicOutMode>255</PicOutMode>            
+        </File>
+    </Item>
+    <Item>        <groupName></groupName>
+        <playType>0</playType>
+        <itemType>0</itemType>
+        <parentIndex>3</parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>3.bmp</fileName>
+            <schCount>1</schCount>
+            <playTimes>1</playTimes>
+            <Drive>68</Drive>
+            <Type>80</Type>
+            <PicStaySec>65535</PicStaySec>
+            <PicInMode>255</PicInMode>
+            <PicOutMode>255</PicOutMode>  
+            <SCH>                <bweek_rep>63</bweek_rep>
+                <b_year>8216</b_year>
+                <b_month>1</b_month>
+                <b_day>1</b_day>
+                <b_hour>0</b_hour>
+                <b_minute>0</b_minute>
+                <b_date_valid>0</b_date_valid>
+                <b_time_valid>0</b_time_valid>
+                <e_year>8217</e_year>
+                <e_month>1</e_month>
+                <e_day>1</e_day>
+                <e_hour>35</e_hour>
+                <e_minute>89</e_minute>
+                <e_date_valid>1</e_date_valid>
+                <e_time_valid>1</e_time_valid>
+            </SCH>                      
+        </File>
+    </Item>
+</czPlayList>

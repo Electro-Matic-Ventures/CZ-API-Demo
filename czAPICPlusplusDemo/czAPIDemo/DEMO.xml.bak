@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<czPlayList>
+    <Version>1</Version>
+    <Count>3</Count>
+    <Item>        <groupName></groupName>
+        <playType>205</playType>
+        <itemType>0</itemType>
+        <parentIndex>0</parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>1.bmp</fileName>
+            <schCount>1</schCount>
+            <playTimes>1</playTimes>
+            <Drive>100</Drive>
+            <Type>112</Type>
+            <PicStaySec>348</PicStaySec>
+            <PicInMode>0</PicInMode>
+            <PicOutMode>0</PicOutMode>
+            <pcFileName></pcFileName>
+            <SCH>                <bweek_rep>127</bweek_rep>
+                <b_year>8200</b_year>
+                <b_month>1</b_month>
+                <b_day>1</b_day>
+                <b_hour>0</b_hour>
+                <b_minute>0</b_minute>
+                <b_date_valid>1</b_date_valid>
+                <b_time_valid>1</b_time_valid>
+                <e_year>8200</e_year>
+                <e_month>1</e_month>
+                <e_day>1</e_day>
+                <e_hour>35</e_hour>
+                <e_minute>89</e_minute>
+                <e_date_valid>1</e_date_valid>
+                <e_time_valid>1</e_time_valid>
+            </SCH>
+        </File>
+    </Item>
+    <Item>        <groupName></groupName>
+        <playType>205</playType>
+        <itemType>0</itemType>
+        <parentIndex>01/parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>2.bmp</fileName>
+            <schCount>1</schCount>
+            <playTimes>1</playTimes>
+            <Drive>100</Drive>
+            <Type>112</Type>
+            <PicStaySec>348</PicStaySec>
+            <PicInMode>0</PicInMode>
+            <PicOutMode>0</PicOutMode>
+            <pcFileName></pcFileName>
+            <SCH>                <bweek_rep>127</bweek_rep>
+                <b_year>8200</b_year>
+                <b_month>1</b_month>
+                <b_day>1</b_day>
+                <b_hour>0</b_hour>
+                <b_minute>0</b_minute>
+                <b_date_valid>1</b_date_valid>
+                <b_time_valid>1</b_time_valid>
+                <e_year>8200</e_year>
+                <e_month>1</e_month>
+                <e_day>1</e_day>
+                <e_hour>35</e_hour>
+                <e_minute>89</e_minute>
+                <e_date_valid>1</e_date_valid>
+                <e_time_valid>1</e_time_valid>
+            </SCH>
+        </File>
+    </Item>
+    <Item>        <groupName></groupName>
+        <playType>205</playType>
+        <itemType>0</itemType>
+        <parentIndex>2</parentIndex>
+        <fileCount>1</fileCount>
+        <File>            <fileName>3.bmp</fileName>
+            <schCount>1</schCount>
+            <playTimes>1</playTimes>
+            <Drive>100</Drive>
+            <Type>112</Type>
+            <PicStaySec>348</PicStaySec>
+            <PicInMode>0</PicInMode>
+            <PicOutMode>0</PicOutMode>
+            <pcFileName></pcFileName>
+            <SCH>                <bweek_rep>127</bweek_rep>
+                <b_year>8200</b_year>
+                <b_month>1</b_month>
+                <b_day>1</b_day>
+                <b_hour>0</b_hour>
+                <b_minute>0</b_minute>
+                <b_date_valid>1</b_date_valid>
+                <b_time_valid>1</b_time_valid>
+                <e_year>8200</e_year>
+                <e_month>1</e_month>
+                <e_day>1</e_day>
+                <e_hour>35</e_hour>
+                <e_minute>89</e_minute>
+                <e_date_valid>1</e_date_valid>
+                <e_time_valid>1</e_time_valid>
+            </SCH>
+        </File>
+    </Item>
+</czPlayList>

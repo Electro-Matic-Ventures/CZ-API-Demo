@@ -1,0 +1,240 @@
+﻿生成启动时间为 2019/12/17 17:36:14。
+     1>项目“E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\czAPIDemo.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\czAPIDemo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt czAPIDemo.cpp
+         czAPIDemo.cpp
+     1>e:\svn_sharefile\czbaselib\czapidemo\czapidemo_source\czapicplusplusdemo\czapidemo\czapi\include\czStructsDefine.h(107): warning C4005: “MAX_PATH”: 宏重定义
+                 C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\include\windef.h(57) : 参见“MAX_PATH”的前一个定义
+     1>e:\svn_sharefile\czbaselib\czapidemo\czapidemo_source\czapicplusplusdemo\czapidemo\czapi\include\czErrorCode.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>czAPIDemo.cpp(77): warning C4309: “=”: 截断常量值
+     1>czAPIDemo.cpp(81): warning C4309: “=”: 截断常量值
+     1>czAPIDemo.cpp(85): warning C4309: “=”: 截断常量值
+     1>czAPIDemo.cpp(91): warning C4309: “=”: 截断常量值
+     1>czAPIDemo.cpp(92): warning C4309: “=”: 截断常量值
+     1>czAPIDemo.cpp(158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>czAPIDemo.cpp(369): warning C4101: “nResult”: 未引用的局部变量
+     1>czAPIDemo.cpp(478): warning C4101: “fp”: 未引用的局部变量
+     1>czAPIDemo.cpp(845): warning C4101: “fp”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czAPIDemo.exe" /INCREMENTAL:NO /NOLOGO E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czJetFileII.lib /MANIFEST /ManifestFile:"Release\czAPIDemo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czAPIDemo.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czAPIDemo.lib" /MACHINE:X86 Release\czAPIDemo.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         czAPIDemo.vcxproj -> E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czAPIDemo.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\Release\czAPIDemo.exe;#1" /manifest Release\czAPIDemo.exe.intermediate.manifest
+       PostBuildEvent:
+         copy E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\*.* E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\..\publish\czAPIDemo\czAPI\include\
+         xcopy E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\*.* E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\..\publish\czAPIDemo\czAPI\bin-win\ /s /e /y
+         xcopy E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\*.* E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\..\publish\czAPIDemo\czAPICPlusplusDemo\ /s /e /y
+         
+         :VCEnd
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czAPICfg.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czAux.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czBaseAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czBlankAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czEasyAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czErrorCode.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czErrorDescription.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czExtraBDAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czFHAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czFileCtrlAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czImposaAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czJetFileII.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czLicAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czLoginAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czMageAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czMBAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czMPUAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czOffLineTickerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czParkAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czPixcelAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czPlayCtrlAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czPlayerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czPlayListAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czReadAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czStructsDefine.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czTBAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czTestAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czTickerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czTimeAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czTrafficAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czType.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czVPUAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\czWriteAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\include\osHeader.h
+         已复制        34 个文件。
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x64\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x64\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86\JetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86\JetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86Debug\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPI\bin-win\x86Debug\czJetFileII.lib
+         复制了 8 个文件
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo.sdf
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo.sln
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo.VC.db
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\1.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\1_1.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\2.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\3.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\565.pmg
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\565.pmg.tmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\565RGB.pmg
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\565RGB.pmg.tmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\chair.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\ClassDiagram.cd
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.cpp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.vcxproj
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.vcxproj.filters
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.vcxproj.user
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\demo.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\DEMO.LST.bak
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\demo.qst
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\DEMO1.LST
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\DEMO1.LST.bak
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\DEMO2.LST
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\FILELSTI.LST
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\leftArrow.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\logo.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\rigthArrow.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\SEQ_PC.SYS
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\stdafx.cpp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\stdafx.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\targetver.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Type.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\upArrow.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-debain7-glibc2.13\libczJetFileII.so
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-osx\iMac\libczJetFileII.dylib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-osx\iMac\libczJetFileII.dylib.dSYM\Contents\Info.plist
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-osx\iMac\libczJetFileII.dylib.dSYM\Contents\Resources\DWARF\libczJetFileII.dylib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-osx\iphoneos\libczJetFileII.a
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-osx\iphonesimulator\libczJetFileII.a
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-rpi-arm\libczJetFileII.so
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-unix\libczJetFileII.so
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x64\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x64\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x86\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x86\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x86Debug\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\bin-win\x86Debug\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czAPICfg.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czAux.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czBaseAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czBlankAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czEasyAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czErrorCode.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czErrorDescription.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czExtraBDAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czFHAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czFileCtrlAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czImposaAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czJetFileII.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czLicAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czLoginAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czMageAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czMBAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czMPUAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czOffLineTickerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czParkAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czPixcelAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czPlayCtrlAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czPlayerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czPlayListAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czReadAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czStructsDefine.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czTBAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czTestAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czTickerAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czTimeAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czTrafficAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czType.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czVPUAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\czWriteAPI.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\czAPI\include\osHeader.h
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\cl.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\CL.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\CL.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.Build.CppClean.log
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.exe.embed.manifest
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.exe.embed.manifest.res
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.exe.intermediate.manifest
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.lastbuildstate
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.log
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.obj
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.pch
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\czAPIDemo_manifest.rc
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link-cvtres.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link-cvtres.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.14116-cvtres.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.14116-cvtres.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.14116.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.14116.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\link.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\mt.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\mt.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\mt.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\rc.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\rc.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\rc.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\stdafx.obj
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\vc100.idb
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Debug\vc100.pdb
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\cl.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\CL.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\CL.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.Build.CppClean.log
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.exe.intermediate.manifest
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.lastbuildstate
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.log
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.obj
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.pch
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.unsuccessfulbuild
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.vcxprojResolveAssemblyReference.cache
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\czAPIDemo.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\link.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\link.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\link.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\mt.command.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\mt.read.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\mt.write.1.tlog
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\stdafx.obj
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\czAPIDemo\Release\vc100.pdb
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\1.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\2.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\3.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czAPIDemo.exe
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czAPIDemo.ilk
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czAPIDemo.pdb
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\czJetFileII1.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Debug\demo.bmp
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\ipch\czapidemo-48b927fc\czapidemo-94bcfd48.ipch
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\ipch\czapidemo-48b927fc\czapidemo-ccf9ffc2.ipch
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\1.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\2.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\3.BMP
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\czAPIDemo.exe
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\czAPIDemo.pdb
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\czJetFileII.dll
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\czJetFileII.lib
+         E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\..\czAPICPlusplusDemo\Release\demo.bmp
+         复制了 152 个文件
+       FinalizeBuildStatus:
+         正在删除文件“Release\czAPIDemo.unsuccessfulbuild”。
+         正在对“Release\czAPIDemo.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\svn_shareFile\czBaseLib\czAPIDemo\czAPIDemo_Source\czAPICPlusplusDemo\czAPIDemo\czAPIDemo.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.40
